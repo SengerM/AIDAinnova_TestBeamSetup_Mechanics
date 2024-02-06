@@ -5,3 +5,5 @@ This repository contains the files regarding the mechanics of the [AIDAinnova WP
 ![Picture of the complete setup](img/whole_setup.png)
 
 ![Picture of the detail of the small mechanics](img/small_mechanics.png)
+
+![Picture of the aluminum support plate](img/support_base.jpg)
